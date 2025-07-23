@@ -1,6 +1,6 @@
 pkgname = "lxqt-wayland-session"
 pkgver = "0.2.0"
-pkgrel = 2
+pkgrel = 0
 build_style = "cmake"
 hostmakedepends = [
     "cmake",
